@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-
+///在使用xib或者storyboard时,写在layoutIfNeeded()方法中
 extension UIView {
     /// 部分圆角
     /// - Parameters:
